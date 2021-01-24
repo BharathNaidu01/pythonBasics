@@ -15,7 +15,9 @@ The different concepts which are there in basic python are
 5. Numeric data types such as int, float etc...
 6. Date datatypes. For this you have to import libraries.
 7. error handling. (eg:- try, except, finally)
+
 8.conditions and handling multiple conditions.
+
 9.collections
   1)LISTS:-
   i) lists are collections of items (eg:- name = ["Bharath","Naidu"])
@@ -31,7 +33,9 @@ The different concepts which are there in basic python are
  
  
 10. loops
+
 11.functions
+
 12. Modules and packages
 
   
