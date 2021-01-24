@@ -1,2 +1,7 @@
 # pythonBasics
-For people who wants to learn python, start with this repository. I promise that you will enjoy it.
+
+24/01/2021.
+
+I am starting my python journey for artificial intelligence today. Lets see how much time does it take to learn AI.
+
+#FingersCrossed
